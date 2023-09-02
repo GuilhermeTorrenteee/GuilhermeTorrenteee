@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/guilherme-torrente-093406173/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
 </div>
 ***
-## 🛠 &nbsp;Tech Stack
+🛠 &nbsp;Tech Stack
 
 ### 👩‍💻 &nbsp;Back-End
 

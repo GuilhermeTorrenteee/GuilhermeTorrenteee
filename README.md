@@ -1,4 +1,4 @@
-### Olá, Eu sou o Guilherme Torrente
+### Olá, sou o Guilherme Torrente
 
 <div align="center">
 <p>

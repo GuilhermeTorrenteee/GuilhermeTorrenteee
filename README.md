@@ -27,9 +27,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-E7ECEB?style=for-the-badge&logo=mysql&logoColor=004D8F)&nbsp;
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeTorrenteee&show_icons=true&theme=midnight-purple">
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTorrenteee&layout=compact&theme=midnight-purple">
-
 </div>
 

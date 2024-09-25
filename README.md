@@ -21,7 +21,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-E7ECEB?style=for-the-badge&logo=HTML5&logoColor=C86833)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-E7ECEB?style=for-the-badge&logo=CSS3&logoColor=139DFF)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-E7ECEB?style=for-the-badge&logo=Angular&logoColor=893121)&nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB);
+![React](https://https://img.shields.io/badge/-React-E7ECEB?style=for-the-badge&logo=Angular&logoColor=893121)
 
 ### ⚡ &nbsp;Database 
 ![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-E7ECEB?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=FDFD62)&nbsp;

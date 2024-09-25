@@ -26,5 +26,10 @@
 ![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-E7ECEB?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=FDFD62)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-E7ECEB?style=for-the-badge&logo=mysql&logoColor=004D8F)&nbsp;
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeTorrenteee&show_icons=true&theme=midnight-purple">
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTorrenteee&layout=compact&theme=midnight-purple">
+
+</div>
 
